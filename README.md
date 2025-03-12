@@ -116,7 +116,3 @@ Editar
 
 ---
 
-💥 Se quiser, **já te mando esse README.md pronto em arquivo pra colocar direto na pasta do projeto.**
-
-Quer que eu crie o arquivo e suba no chat? 🚀  
-#TriboFlutoo #ProfissionalismoTotal
